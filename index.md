@@ -1,5 +1,7 @@
 ## <Nuutti Kangasniemi> Web-tehtävä 
 
+[GitHub-profiilini](https://github.com/NuuttiK99)
+
 ## **Tehtävä 1**
 
 Writing in Markdown is _not_ that hard!
