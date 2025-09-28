@@ -1,4 +1,4 @@
-## <Nuutti Kangasniemi> **Web-tehtävä** 
+## <Nuutti Kangasniemi> Web-tehtävä 
 
 ## **Tehtävä 1**
 
